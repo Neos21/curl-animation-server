@@ -1,4 +1,4 @@
-# curl Animation Server
+# PoC : curl Animation Server
 
 curl Animation Server Made With Node.js
 
